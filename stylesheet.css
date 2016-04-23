@@ -1,0 +1,191 @@
+@import url(https://fonts.googleapis.com/css?family=Frijole);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
+
+html {
+  margin: 0;
+}
+
+header {
+  font-weight: normal;
+  font-family: "Frijole", sans-serif;
+  color: blue;
+  font-size: 30px;
+
+}
+
+h1{
+  text-align: center;
+  padding-top: 225px;
+  margin: 0;
+}
+
+#bigpicture{
+  background-image:url("images/hummus.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
+#bigpicture1{
+  background-image:url("images/hummusss.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
+#bigpicture2{
+  background-image:url("images/white_beans.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
+#bigpicture3{
+  background-image:url("images/beans.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
+#linkone {
+  padding-left: 162.5px;
+  padding-right: 115px;
+  font-family: "Pacifico",sans-serif;
+
+}
+#linktwo {
+  padding-left: 110px;
+  padding-right: 110px;
+  font-family: "Pacifico",sans-serif;
+
+}
+#linkthree {
+  padding-left: 120.25px;
+  padding-right: 162.5px;
+  font-family: "Pacifico",sans-serif;
+}
+
+.links {
+    margin-bottom: 45px;
+    padding: 0;
+    font-family: "Megrim", serif;
+    font-size: 36px;
+    margin-top: 0;
+    display: block;
+    text-align: center;
+    padding: 8px 10px 8px 30px;
+    float: left;
+    padding-top: 50px;
+  }
+  a {
+    color: #5AB300;
+  }
+  a:link {
+    text-decoration: none;
+  }
+
+  body{
+    background-color: #004C4C;
+  }
+
+nav {
+  align-items: stretch;
+  text-align: center;
+    }
+
+h3{
+  font-family: 'Slabo 27px', serif;
+  font-size: 40px;
+  font-weight: bold;
+  color: #019494;
+}
+
+p{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 25px;
+  color: white;
+}
+
+h4{
+  font-family: 'Slabo 27px', serif;
+  font-size: 40px;
+  color: #019494;
+  text-align: center;
+}
+
+p{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 25px;
+  color: white;
+}
+
+h5{
+  font-family: 'Slabo 27px', serif;
+  font-size: 40px;
+  color: #019494;
+  text-align: center;
+}
+
+h6{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 25px;
+  color: white;
+}
+
+h7{
+  font-family: 'Slabo 27px', serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: #019494;
+  text-align: center;
+}
+
+h8{
+  font-family: 'Slabo 27px', serif;
+  font-size: 40px;
+  color: #019494;
+  text-align: center;
+}
+
+h9{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 25px;
+  color: white;
+}
+
+h10{
+  font-family: 'Slabo 27px', serif;
+  font-size: 40px;
+  color: #019494;
+  text-align: center;
+}
+
+h11{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 25px;
+  color: white;
+}
+
+h12{
+  font-family: 'Slabo 27px', serif;
+  font-size: 40px;
+  color: #019494;
+  text-align: center;
+}
+
+h13{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 25px;
+  color: white;
+}
+
+
+a:visited{
+
+}
